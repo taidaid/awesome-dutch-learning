@@ -26,3 +26,7 @@ The one, the only Duolingo. It is a great way to get started, but the learning i
 
 ## Flashcard decks
 - [5000 most common Dutch words](https://ankiweb.net/shared/info/1002891444)
+
+## Meetups
+- [Utrecht Language Cafe](https://languagecafeutrecht.nl/)
+- 
