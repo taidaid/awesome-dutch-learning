@@ -29,4 +29,5 @@ The one, the only Duolingo. It is a great way to get started, but the learning i
 
 ## Meetups
 - [Utrecht Language Cafe](https://languagecafeutrecht.nl/)
-- 
+- [Amsterdam Language Cafe](https://www.meetup.com/nl-NL/Amsterdam-Language-Cafe/)
+- [Arnhem Language Cafe](https://www.abc-libertas.nl/agenda/tandem-taalcafe)
